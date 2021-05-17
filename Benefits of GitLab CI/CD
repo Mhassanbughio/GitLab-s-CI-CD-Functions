@@ -1,3 +1,7 @@
+
+###########################################    Benefits of GitLab CI/CD    ####################################################################
+
+
 Error Detection
 
 Detects errors as quickly as possible: fix problems while they are still fresh in developers mind
@@ -26,3 +30,8 @@ CI/CD Features in GitLab- by Lifecycle Stage
 
 Here are the features you can use in GitLab for CI/CD. They are shown according to the stage in the DevOps Lifecycle. 
 Next we’ll look at a few of the key features and how to use them in the Verify, Package, and Release stages of the life cycle. We’ll cover the Secure stage later on today.
+
+How GitLab CI/CD Works 
+
+To use GitLab CI/CD, all you need is an application codebase hosted in a Git repository, and for your build, test, and deployment scripts to be specified in a file called.
+gitlab-ci.yml, located in the root path of your repository.
