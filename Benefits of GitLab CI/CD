@@ -11,3 +11,5 @@ No Snowball Effect
 Avoid compounding problems: allows teams to develop faster, with more confidence and collaboration.
 
 Release Stages
+
+Ensures every change is releasable: test everything, including deployment, before calling it done with less risk on each release.
