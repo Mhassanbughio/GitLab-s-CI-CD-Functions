@@ -1,0 +1,4 @@
+
+To use GitLab CI/CD you or your GitLab administrator must first define a pipeline within a YAML file called.
+gitlab-ci.yml and then install and configure a Gitlab Runner.
+
