@@ -31,4 +31,4 @@ stages:
 Inspect the CI/CI pipeline
 GitLab started running a CI/CD pipeline as soon as you committed .gitlab-ci.yml to your project's repository. 
 To see the project's pipelines, go to the left navigation bar and click CI/CD > Pipelines.
-  
+Only one pipeline has run so far. See the details of that pipeline by clicking the green passed label next to the pipeline's table entry.
