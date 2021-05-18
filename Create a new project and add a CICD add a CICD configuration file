@@ -1,0 +1,11 @@
+GitLab with Git Basics Hands On Guide: Lab 4
+##########################################LAB 4: BUILD A .gitlab-ci.yml FILE ####################################################################
+
+Create a new project and add a CI/CD configuration file
+
+Navigate to your group, click New project, click Create blank project.
+In the Project name dialog box, enter CI Test.
+Under Visibility Level, click the radio button for Private.
+Enable the checkbox for Initialize repository with a README.
+Click the green Create project button.
+
