@@ -12,3 +12,6 @@ You should be on the Project overview page for your CI Test project.
 If not, navigate to it using the top navigation bar: Groups > Your Groups > Training Users > Session NUMBER > My Test Group - USERNAME > CI Test.
 Create a new file by clicking the + dropdown 2 lines below the project's title.
 Click New file in the This directory section.
+In the File name dialog box enter .gitlab-ci.yml.
+If it's not already selected, click .gitlab-ci.yml in the next dropdown to the right, which selects a file template.
+In the Apply a template dropdown, select Bash in the General section. This creates a minimal .gitlab-ci.yml file.
