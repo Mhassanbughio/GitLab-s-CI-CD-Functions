@@ -15,3 +15,6 @@ Click New file in the This directory section.
 In the File name dialog box enter .gitlab-ci.yml.
 If it's not already selected, click .gitlab-ci.yml in the next dropdown to the right, which selects a file template.
 In the Apply a template dropdown, select Bash in the General section. This creates a minimal .gitlab-ci.yml file.
+In the editor, delete all lines above and below the build1 and test1 sections
+Define build and test stages by adding these 3 lines at the top of the file. Hint: watch your spacing! The stages keyword should be flush left. 
+The stage names should each be indented by 2 spaces.
