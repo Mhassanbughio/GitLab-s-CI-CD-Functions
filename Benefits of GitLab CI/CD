@@ -35,3 +35,11 @@ How GitLab CI/CD Works
 
 To use GitLab CI/CD, all you need is an application codebase hosted in a Git repository, and for your build, test, and deployment scripts to be specified in a file called.
 gitlab-ci.yml, located in the root path of your repository.
+
+
+GitLab and AutoDevOps 
+
+Auto DevOps gives you a pre-defined CI/CD configuration which lets you automatically detect, build, test, deploy, and monitor your applications.
+This makes it easier to set up every project more consistently.
+It is enabled by default for all of your projects but can be disabled by your administrator at the instance level. 
+It can be disabled and enabled by GitLab.com users at the project level, and self-managed users can also enable it at the group or instance level.
